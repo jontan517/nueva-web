@@ -74,5 +74,6 @@
             }
         ]
     },
-    "domain": "https://nueva-web-cdbe0.netlify.app"
+    "domain": "https://nueva-web-cdbe0.netlify.app",
+    "favicon": "/images/nervous-tortoise.png"
 }
