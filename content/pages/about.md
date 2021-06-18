@@ -30,11 +30,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Desde hace años me ha apasionado el mundo de las marcas, pero de algo que me he dado cuenta es que existen muchas de ellas que no saben como dar su mensaje de forma efectiva. Ese motivo me inspiró para optimizar la manera en la que un emprendimiento o negocio se expresa.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+Soy Jonathan Rocha, tengo 16 años y a pesar de mi corta edad he descubierto que el **marketing es mi pasión**. Pasando por muchos hobbies y actividades que me han ayudado a ser quien soy
