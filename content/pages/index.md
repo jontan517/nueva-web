@@ -14,7 +14,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Como te ayudo
-    subtitle: An optional subtitle of the section
+    subtitle: 'En esta web podrás encontrar:'
     col_number: two
     is_numbered: true
     grid_items:
