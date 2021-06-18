@@ -15,7 +15,7 @@ sections:
     type: section_grid
     title: Como te ayudo
     subtitle: An optional subtitle of the section
-    col_number: three
+    col_number: two
     is_numbered: true
     grid_items:
       - title: Service Title
